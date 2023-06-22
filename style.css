@@ -146,7 +146,7 @@ header {
 
 .hero {
     /* background-image: url(/img/portada.jpg);     */
-    background: linear-gradient( to top, transparent, rgba(136, 141, 141, 0.8) ), url(/img/portada.jpg);
+    background: linear-gradient( to top, transparent, rgba(136, 141, 141, 0.8) ), url(img/portada.jpg);
     /* background-image: url(/img/roma.jpeg); */
     background-position: center;
     background-repeat: no-repeat;
